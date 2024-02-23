@@ -1,0 +1,9 @@
+Name= kafy		Id= 211-15		Subject=1		Score=2
+
+Name= arafath		Id= 3946		Subject=1		Score=3
+
+Name= Arafath Kafy		Id= 211-15-3946		Subject=1		Score=2
+
+Name= arafath kafy		Id= 211-15-3946		Subject=2		Score=2
+
+Name= arafath		Id= 3946		
